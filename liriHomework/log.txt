@@ -1,0 +1,441 @@
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Feb 11 00:52:26 +0000 2018
+Tweet content: What makes you different makes you beautiful
+------------------------
+Created on: Sun Feb 11 00:51:55 +0000 2018
+Tweet content: fun fun fun
+------------------------
+Created on: Sun Feb 11 00:51:49 +0000 2018
+Tweet content: wedding planning
+------------------------
+Created on: Sun Feb 11 00:51:43 +0000 2018
+Tweet content: #awesome
+------------------------
+Created on: Sun Feb 11 00:51:37 +0000 2018
+Tweet content: #working
+------------------------
+Created on: Sat Feb 10 17:26:16 +0000 2018
+Tweet content: In class right now #class #coding
+------------------------
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat May 05 01:28:45 +0000 2018
+Tweet content: I don't node how to code this
+------------------------
+Created on: Sat May 05 01:28:35 +0000 2018
+Tweet content: idontnodeanything
+------------------------
+Created on: Sat May 05 01:28:28 +0000 2018
+Tweet content: nodeishard
+------------------------
+Created on: Sat May 05 01:28:24 +0000 2018
+Tweet content: #fourmoretogo
+------------------------
+Created on: Sat May 05 01:27:55 +0000 2018
+Tweet content: Twitterislyfee
+------------------------
+Created on: Sat May 05 01:27:47 +0000 2018
+Tweet content: TESTTESTTEST
+------------------------
+Created on: Sat May 05 01:27:40 +0000 2018
+Tweet content: Cant think of any more test tweets
+------------------------
+Created on: Sat May 05 01:27:31 +0000 2018
+Tweet content: Only on number 12?
+------------------------
+Created on: Sat May 05 01:27:13 +0000 2018
+Tweet content: #testTweets
+------------------------
+Created on: Sat May 05 01:27:07 +0000 2018
+Tweet content: Tweetingggg
+------------------------
+Created on: Sat May 05 01:26:54 +0000 2018
+Tweet content: SoggyFries
+------------------------
+Created on: Sat May 05 01:26:34 +0000 2018
+Tweet content: LiriBotLyfeee
+------------------------
+Created on: Sat May 05 01:26:18 +0000 2018
+Tweet content: Testing for Homework #Coding
+------------------------
+Created on: Sat May 05 01:25:59 +0000 2018
+Tweet content: Twittertweet
+------------------------
+Created on: Sat May 05 01:25:47 +0000 2018
+Tweet content: #testCoding
+------------------------
+Created on: Sat May 05 01:25:28 +0000 2018
+Tweet content: SMUCODERRRR
+------------------------
+Created on: Sat May 05 01:25:22 +0000 2018
+Tweet content: goodbye!
+------------------------
+Created on: Sat May 05 01:25:18 +0000 2018
+Tweet content: hello!
+------------------------
+Created on: Sat May 05 01:25:09 +0000 2018
+Tweet content: #FridayNightHomework
+------------------------
+Created on: Sat May 05 01:24:59 +0000 2018
+Tweet content: It's Friday!
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat May 05 01:28:45 +0000 2018
+Tweet content: I don't node how to code this
+------------------------
+Created on: Sat May 05 01:28:35 +0000 2018
+Tweet content: idontnodeanything
+------------------------
+Created on: Sat May 05 01:28:28 +0000 2018
+Tweet content: nodeishard
+------------------------
+Created on: Sat May 05 01:28:24 +0000 2018
+Tweet content: #fourmoretogo
+------------------------
+Created on: Sat May 05 01:27:55 +0000 2018
+Tweet content: Twitterislyfee
+------------------------
+Created on: Sat May 05 01:27:47 +0000 2018
+Tweet content: TESTTESTTEST
+------------------------
+Created on: Sat May 05 01:27:40 +0000 2018
+Tweet content: Cant think of any more test tweets
+------------------------
+Created on: Sat May 05 01:27:31 +0000 2018
+Tweet content: Only on number 12?
+------------------------
+Created on: Sat May 05 01:27:13 +0000 2018
+Tweet content: #testTweets
+------------------------
+Created on: Sat May 05 01:27:07 +0000 2018
+Tweet content: Tweetingggg
+------------------------
+Created on: Sat May 05 01:26:54 +0000 2018
+Tweet content: SoggyFries
+------------------------
+Created on: Sat May 05 01:26:34 +0000 2018
+Tweet content: LiriBotLyfeee
+------------------------
+Created on: Sat May 05 01:26:18 +0000 2018
+Tweet content: Testing for Homework #Coding
+------------------------
+Created on: Sat May 05 01:25:59 +0000 2018
+Tweet content: Twittertweet
+------------------------
+Created on: Sat May 05 01:25:47 +0000 2018
+Tweet content: #testCoding
+------------------------
+Created on: Sat May 05 01:25:28 +0000 2018
+Tweet content: SMUCODERRRR
+------------------------
+Created on: Sat May 05 01:25:22 +0000 2018
+Tweet content: goodbye!
+------------------------
+Created on: Sat May 05 01:25:18 +0000 2018
+Tweet content: hello!
+------------------------
+Created on: Sat May 05 01:25:09 +0000 2018
+Tweet content: #FridayNightHomework
+------------------------
+Created on: Sat May 05 01:24:59 +0000 2018
+Tweet content: It's Friday!
+------------------------
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=1b98d188515849d6a08b862781601dd6
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Edge Of Darkness
+Artist: Greta Van Fleet
+Album: From The Fires
+Preview Here: null
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=1b98d188515849d6a08b862781601dd6
+
+User Command: /usr/local/Cellar/node/9.4.0/bin/node,/Users/andreavelardi/Desktop/projects/class_hw/liriBotHomework/liriBot/liriHomework/liri.js,movie-name-here
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: /usr/local/Cellar/node/9.4.0/bin/node,/Users/andreavelardi/Desktop/projects/class_hw/liriBotHomework/liriBot/liriHomework/liri.js,KillBill
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js movie-this Kill Bill 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Kill Bill: Vol. 1
+Year Released: 10 Oct 2003
+IMBD Rating: 8.1
+Country Produced: USA
+Language: English, Japanese, French
+Plot: The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
+Actors: Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Kill Bill 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Kill Bill: Vol. 1
+Year Released: 10 Oct 2003
+IMBD Rating: 8.1
+Country Produced: USA
+Language: English, Japanese, French
+Plot: The Bride wakens from a four-year coma. The child she carried in her womb is gone. Now she must wreak vengeance on the team of assassins who betrayed her - a team she was once part of.
+Actors: Uma Thurman, Lucy Liu, Vivica A. Fox, Daryl Hannah
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat May 05 01:28:45 +0000 2018
+Tweet content: I don't node how to code this
+------------------------
+Created on: Sat May 05 01:28:35 +0000 2018
+Tweet content: idontnodeanything
+------------------------
+Created on: Sat May 05 01:28:28 +0000 2018
+Tweet content: nodeishard
+------------------------
+Created on: Sat May 05 01:28:24 +0000 2018
+Tweet content: #fourmoretogo
+------------------------
+Created on: Sat May 05 01:27:55 +0000 2018
+Tweet content: Twitterislyfee
+------------------------
+Created on: Sat May 05 01:27:47 +0000 2018
+Tweet content: TESTTESTTEST
+------------------------
+Created on: Sat May 05 01:27:40 +0000 2018
+Tweet content: Cant think of any more test tweets
+------------------------
+Created on: Sat May 05 01:27:31 +0000 2018
+Tweet content: Only on number 12?
+------------------------
+Created on: Sat May 05 01:27:13 +0000 2018
+Tweet content: #testTweets
+------------------------
+Created on: Sat May 05 01:27:07 +0000 2018
+Tweet content: Tweetingggg
+------------------------
+Created on: Sat May 05 01:26:54 +0000 2018
+Tweet content: SoggyFries
+------------------------
+Created on: Sat May 05 01:26:34 +0000 2018
+Tweet content: LiriBotLyfeee
+------------------------
+Created on: Sat May 05 01:26:18 +0000 2018
+Tweet content: Testing for Homework #Coding
+------------------------
+Created on: Sat May 05 01:25:59 +0000 2018
+Tweet content: Twittertweet
+------------------------
+Created on: Sat May 05 01:25:47 +0000 2018
+Tweet content: #testCoding
+------------------------
+Created on: Sat May 05 01:25:28 +0000 2018
+Tweet content: SMUCODERRRR
+------------------------
+Created on: Sat May 05 01:25:22 +0000 2018
+Tweet content: goodbye!
+------------------------
+Created on: Sat May 05 01:25:18 +0000 2018
+Tweet content: hello!
+------------------------
+Created on: Sat May 05 01:25:09 +0000 2018
+Tweet content: #FridayNightHomework
+------------------------
+Created on: Sat May 05 01:24:59 +0000 2018
+Tweet content: It's Friday!
+------------------------
+
+User Command: node liri.js spotify-this-song Safari 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Safari
+Artist: J Balvin
+Album: Energía
+Preview Here: null
+
+User Command: node liri.js spotify-this-song Edge of Darkness 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Edge Of Darkness
+Artist: Greta Van Fleet
+Album: From The Fires
+Preview Here: null
+
+User Command: node liri.js spotify-this-song Thriller 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Billie Jean
+Artist: Michael Jackson
+Album: Thriller 25 Super Deluxe Edition
+Preview Here: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=1b98d188515849d6a08b862781601dd6
+
+User Command: node liri.js movie-this Pulp Fiction 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Pulp Fiction
+Year Released: 14 Oct 1994
+IMBD Rating: 8.9
+Country Produced: USA
+Language: English, Spanish, French
+Plot: The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Actors: Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this Toy Story 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Toy Story
+Year Released: 22 Nov 1995
+IMBD Rating: 8.3
+Country Produced: USA
+Language: English
+Plot: A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+Actors: Tom Hanks, Tim Allen, Don Rickles, Jim Varney
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: /usr/local/Cellar/node/9.4.0/bin/node,/Users/andreavelardi/Desktop/projects/class_hw/liriBotHomework/liriBot/liriHomework/liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=1b98d188515849d6a08b862781601dd6
+
